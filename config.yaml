@@ -25,7 +25,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/business-science-logo.png
+    image: logos/jupiterinvests.png
     link: /
     brandName: Jupiter Invests
     # Default width/height. Uncomment if you need to change
@@ -169,7 +169,7 @@ params:
   
   footer:
     # Logo (from /images/logos/___)
-    logo: business-science-logo.png
+    logo: jupiterinvests.png
     navbarLogoWidth: "100px"
     navbarLogoHeight: "100px"
     # Social Media Title
