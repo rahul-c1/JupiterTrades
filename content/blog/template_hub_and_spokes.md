@@ -1,6 +1,6 @@
 ---
-author: Matt Dancho
-date: "2022-11-29T08:45:27+06:00"
+author: Author
+date: "2023-01-209T08:45:27+06:00"
 image: images/illustrations/mockups/hub_and_spokes.jpg
 include_cta: true
 title: Template for hub and spokes blog model

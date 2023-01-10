@@ -1,6 +1,6 @@
 ---
-author: Matt Dancho
-date: "2020-09-13T12:49:27+06:00"
+author: Author
+date: "2023-01-01T12:49:27+06:00"
 image: images/illustrations/mockups/nostradamus_app.jpg
 include_cta: true
 title: Markdown Formatting Demo
