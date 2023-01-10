@@ -1,6 +1,6 @@
-baseURL: http://jupitertrades.com/
+baseURL: http://jupiterinvests.com/
 languageCode: en-us
-title: Jupiter Trades
+title: Jupiter Invests
 theme: "hugo-fresh-data-science"
 # Put in your google analytics tracking code without quotes like this: UA-XXXXXX...
 googleAnalytics: # UA-XXXXX...
@@ -27,7 +27,7 @@ params:
   # Logo (from static/images/logos/___)
     image: logos/business-science-logo.png
     link: /
-    brandName: Jupiter Trades
+    brandName: Jupiter Invests
     # Default width/height. Uncomment if you need to change
     width: 40
     height: 40
@@ -105,7 +105,7 @@ params:
     - gutwork.svg
  
   section2_transformation:
-    title: "How Jupiter Trades works." 
+    title: "How Jupiter Invests works." 
     subtitle: "Make informed investments and portfolio optimization in 4 simple steps"
     # icons are located in static > images > illustrations > icons
     tile_size: is-one-quarter
@@ -188,7 +188,7 @@ params:
       column1:
         title: "Consulting"
         links:
-        - text: Why choose Jupiter Trades?
+        - text: Why choose Jupiter Invests?
           link: /consulting
         - text: Testimonials
           link: /testimonials
