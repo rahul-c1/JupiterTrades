@@ -29,8 +29,8 @@ params:
     link: /
     brandName: Jupiter Invests
     # Default width/height. Uncomment if you need to change
-    width: 200
-    height: 200
+    width: 50
+    height: 50
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;600&family=Montserrat:wght@700&family=Roboto+Condensed&display=swap'
