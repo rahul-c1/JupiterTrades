@@ -29,8 +29,8 @@ params:
     link: /
     brandName: Jupiter Invests
     # Default width/height. Uncomment if you need to change
-    width: 50
-    height: 50
+    width: 40
+    height: 40
   
   # Web Fonts Available Here: https://fonts.google.com/
   googleFontImport: 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;600&family=Montserrat:wght@700&family=Roboto+Condensed&display=swap'
@@ -170,8 +170,8 @@ params:
   footer:
     # Logo (from /images/logos/___)
     logo: jupiterinvests.png
-    navbarLogoWidth: "200px"
-    navbarLogoHeight: "200px"
+    navbarLogoWidth: "100px"
+    navbarLogoHeight: "100px"
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
